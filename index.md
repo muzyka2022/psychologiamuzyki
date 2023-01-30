@@ -1,3 +1,5 @@
+	last update: [01302023 2157]
+
 ### Czynniki uzdolnienia muzycznego wg C. Seashore'a
 
 Czynniki uzdolnienia muzycznego według Carla Seashore'a to:
